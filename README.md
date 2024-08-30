@@ -73,3 +73,8 @@ Working with pattern language:
 * Patterns are specifies in terms of there
     * Structure -> Relationship
     * Behavior -> Interaction
+
+5. Related Pattern:
+* Lists other patterns
+* Which can be used together.
+* It is similar but different.
