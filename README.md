@@ -1,18 +1,18 @@
 # Design-Patterns:
--> Design patterns are well known solutions to recurring problems.
--> It is widely accepted by the software development community.
+* Design patterns are well known solutions to recurring problems.
+* It is widely accepted by the software development community.
 
 # Why to use?:
--> You no need to reinvent the wheel when there is solution.
--> It basically systematic reuse of design ideas which will help to lower the cost and provide higher quality.
+* You no need to reinvent the wheel when there is solution.
+* It basically systematic reuse of design ideas which will help to lower the cost and provide higher quality.
 
 # Founder of deisgn patter:
 Christopher Alexander
 
 # Characteristics:
--> It is language neutral.
--> Dynamic: You can revise design pattern whenever there is a need.
--> It is always incomplete by design to promote customization.
+* It is language neutral.
+* Dynamic: You can revise design pattern whenever there is a need.
+* It is always incomplete by design to promote customization.
 
 # Types of Design Patters:
 There are 3 types of design pattern
@@ -23,18 +23,18 @@ There are 3 types of design pattern
 1. Creational Design Pattern:
 Use:
 ------
--> It is useful for creation of object systematically.
+* It is useful for creation of object systematically.
 
 Benefits:
 -----------
--> It provides more flexibility.
+* It provides more flexibility.
 
 ex: Difference types of object can be create from same class when you use creational pattern.
 
 2. Structural Pattern:
 Use:
 -----
--> Establish relationships between software components and particular settings and configuration.
+* Establish relationships between software components and particular settings and configuration.
 
 Goal:
 ------
@@ -49,4 +49,4 @@ Accomplish both functional and non-functional requirements.
     1. How well it completes it's job.
     2. How fast or slow.
 
--> Different goals have different structures.
+* Different goals have different structures.
