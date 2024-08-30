@@ -14,3 +14,4 @@ Solution:
 ---------
 * All module in python act as singleton.
 * Borg Design Pattern: It is a computer networking acronyms and there spelled out version.
+* Please check singleton.py file for the solution.
