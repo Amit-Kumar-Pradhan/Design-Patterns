@@ -51,30 +51,24 @@ Working with pattern language:
 ------------------------------
 * This is something which is similar to learning new language.
 * It consists of 
-    1. Name
-    2. Content
-    3. Problem
-    4. Solution
-    5. Related Patterns
+    1. Name:
+        * It captures the gist and become the part of vocabulary.
+        * It should be meaningful and momorable.
 
-1. Name:
-* It captures the gist and become the part of vocabulary.
-* It should be meaningful and momorable.
+    2. Context:
+        * It provides a scenario in which we should use the pattern.
+        * It also provide more insights on when or where to use the pattern.
 
-2. Context:
-* It provides a scenario in which we should use the pattern.
-* It also provide more insights on when or where to use the pattern.
+    3. Problem:
+        * It describes a design challenge a pattern is addressing.
 
-3. Problem:
-* It describes a design challenge a pattern is addressing.
+    4. Solution:
+        * The solution part specisies the pattern itself.
+        * Patterns are specifies in terms of there
+            * Structure -> Relationship
+            * Behavior -> Interaction
 
-4. Solution:
-* The solution part specisies the pattern itself.
-* Patterns are specifies in terms of there
-    * Structure -> Relationship
-    * Behavior -> Interaction
-
-5. Related Pattern:
-* Lists other patterns
-* Which can be used together.
-* It is similar but different.
+    5. Related Pattern:
+        * Lists other patterns
+        * Which can be used together.
+        * It is similar but different.
