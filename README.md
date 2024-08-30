@@ -50,3 +50,31 @@ Accomplish both functional and non-functional requirements.
     2. How fast or slow.
 
 * Different goals have different structures.
+
+3. Behavioral Pattern:
+Use:
+------
+* It is the best practices of object interaction.
+* Accomplish both functional and non-functional goals.
+
+Focus:
+------
+* Protocols between these objects to accomplish a common goal.
+* Interfaces are common across creational, structural and environmental patterns.
+
+Understanding Of Pattern Concepts:
+-----------------------------------
+* Participants:
+---------------
+* classes involves to form design patterns.
+* They play necessary roles to accomplish goal of design pattern.
+
+
+Quality Attribute:
+----------------------
+* This refer to non functional requirements.
+    -> Usability
+    -> Modifiability
+    -> Reliability
+    -> Performance and more
+* It has effect on entire software architectural solution.
