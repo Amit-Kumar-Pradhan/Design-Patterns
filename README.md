@@ -20,48 +20,6 @@ There are 3 types of design pattern
 2. Structural
 3. Behavioral
 
-1. Creational Design Pattern:
-Use:
-------
-* It is useful for creation of object systematically.
-
-Benefits:
------------
-* It provides more flexibility.
-
-ex: Difference types of object can be create from same class when you use creational pattern.
-
-2. Structural Pattern:
-Use:
------
-* Establish relationships between software components and particular settings and configuration.
-
-Goal:
-------
-Accomplish both functional and non-functional requirements.
-
-    Functional Requirements:
-    -------------------------
-    Basically it includes what the software does.
-
-    Non Functional Requirements:
-    ----------------------------
-    1. How well it completes it's job.
-    2. How fast or slow.
-
-* Different goals have different structures.
-
-3. Behavioral Pattern:
-Use:
-------
-* It is the best practices of object interaction.
-* Accomplish both functional and non-functional goals.
-
-Focus:
-------
-* Protocols between these objects to accomplish a common goal.
-* Interfaces are common across creational, structural and environmental patterns.
-
 Understanding Of Pattern Concepts:
 -----------------------------------
 * Participants:
@@ -78,3 +36,40 @@ Quality Attribute:
     -> Reliability
     -> Performance and more
 * It has effect on entire software architectural solution.
+
+Forces:
+----------
+* This consist of various  factor or trade offs to consider.
+    1. Manifests in quality attribiutes
+    2. Unintended consequences
+
+** Note **
+----------
+* Knowing when to use a design pattern and when not to is crucial because they can cause more problem to solve something.
+
+Working with pattern language:
+------------------------------
+* This is something which is similar to learning new language.
+* It consists of 
+    1. Name
+    2. Content
+    3. Problem
+    4. Solution
+    5. Related Patterns
+
+1. Name:
+* It captures the gist and become the part of vocabulary.
+* It should be meaningful and momorable.
+
+2. Context:
+* It provides a scenario in which we should use the pattern.
+* It also provide more insights on when or where to use the pattern.
+
+3. Problem:
+* It describes a design challenge a pattern is addressing.
+
+4. Solution:
+* The solution part specisies the pattern itself.
+* Patterns are specifies in terms of there
+    * Structure -> Relationship
+    * Behavior -> Interaction
